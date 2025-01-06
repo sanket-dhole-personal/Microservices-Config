@@ -1,6 +1,4 @@
-server:
-  application:
-    name: HOTEL-SERVICE-PROD
+
 eureka:
   instance:
     prefer-ip-address: true
