@@ -1,6 +1,6 @@
-  spring:
-    application:
-      name: HOTEL-SERVICE-dev
+  # spring:
+  #   application:
+  #     name: HOTEL-SERVICE-dev
   eureka:
     instance:
       prefer-ip-address: true
